@@ -7,21 +7,21 @@ import os
 class Config(object):
     API_ID = int(os.environ.get("API_ID", 11508650))
     API_HASH = os.environ.get("API_HASH", "d4053a01b1c02f705c45a1e30496d11e")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5614138190:AAFC4gTrTsn8swkNEg-zkSSSSkmrnHljb2Y")
     BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "MdiskSearchBot")
     USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "")
-    CHANNEL_ID = int(os.environ.get("CHANNEL_ID", -100))
+    CHANNEL_ID = int(os.environ.get("CHANNEL_ID", -1001628019485))
     BOT_USERNAME = os.environ.get("BOT_USERNAME")
     BOT_OWNER = int(os.environ.get("BOT_OWNER"))
     DATABASE_URL = os.environ.get("DATABASE_URL")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
-    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/LazyUrlHunterrBOT'>Lazy Url Hunterr</a> is an open source project.
+    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/SM_mdisk_search_bot'>SM search bot</a> is an open source project.
 
     Devs: 
-        <a href='https://t.me/mRiderDM'>❤️ LazyDeveloper ❤️</a>
+        <a href='https://t.me/SM_chat_bot'>❤️ SM_Developer ❤️</a>
     
     
-🤖 My Name: <a href='https://t.me/Official_Movies_Group'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/SM_Movies_Group'>Mdisk Search Robot</a>
 
 📝 Language: <a href='https://www.python.org'>Python V3</a>
 
@@ -31,10 +31,10 @@ class Config(object):
 
 📡 Server 2: <a href='https://heroku.com'>koyeb</a> <i>comming soon</i>
 
-👨‍💻 Developer Channel: <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a></b>
+👨‍💻 Developer Channel: <a href='https://t.me/SM_chat_bot'>SM_Developer</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>💋 Developer : <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>
+    ABOUT_HELP_TEXT = """<b>💋 Developer : <a href='https://t.me/SM_chat_bot'>SM_Developer</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
@@ -51,7 +51,7 @@ Don't be sad ! Your all urls are in safe Hand.
 
 »»» <b>Happy Hunting</b> «««
 
-🔺Thank You <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>🔺 </b>
+🔺Thank You <a href='https://t.me/SM_chat_bot'>SM_Developer</a>🔺 </b>
 """
 
 
