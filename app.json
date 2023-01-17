@@ -8,7 +8,7 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/Sachuin/LazyUrlHunterrBOT",
+    "repository": "https://github.com/WhiteDevilSM/LazyUrlHunterrBOT",
     "website": "https://telegram.me/LazyDeveloper",
     "success_url": "https://telegram.me/SM_chat_bot",
     "env": {
